@@ -10,7 +10,7 @@ function App() {
       <div className='container'>
         <div className='top'>
          <i class='fab fa-google'></i>
-         <i class='fab fa-facebook-sqaure'></i>
+         <i class='fab fa-facebook-square'></i>
          <i class='fab fa-linkedin'></i>
          <i class='fab fa-twitter-square'></i>
          <i class='fab fa-apple'></i>
